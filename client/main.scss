@@ -1,0 +1,14 @@
+@import './vars';
+
+body {
+  background: $dark-gray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ucritic-font {
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+.first-letter {
+  color: $ucritic-yellow;
+}
